@@ -5,11 +5,11 @@ Jogo de Memória Básicão
   - Lista de Elementos 
 # Embaralhar elementos a cada novo jogo (random)
 # Identificar quais elementos são idênticos
-# Marcar se são iguais e <print> pro jogador (loop if/else)
+# Marcar se são iguais e (print) pro jogador (loop if/else)
 # Contar jogadas (moves)
 # Mostrar elementos mediante comando
 # Jogador dá um comando para mostrar elemento
-# exibir elementos em grid <print>
+# exibir elementos em grid (print)
 # elementos tem dois fatores
  - posição no tabuleiro
  - o que são de fato
